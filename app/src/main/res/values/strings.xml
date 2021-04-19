@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Who Sings</string>
+    <string name="score_description">Your score : %1$s</string>
+    <string name="common_retry">Retry</string>
+    <string name="go_home_button_text">Back to Home</string>
+    <string name="start_quiz">start quiz</string>
+    <string name="chart">chart</string>
+    <string name="common_logout">logout</string>
+    <string name="login">login</string>
+    <string name="hint_username">Insert username</string>
+</resources>

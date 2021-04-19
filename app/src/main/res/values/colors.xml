@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#306DD5</color>
+    <color name="colorPrimaryVariant">#FF3700B3</color>
+
+    <color name="colorSecondary">#FF03DAC5</color>
+    <color name="colorSecondaryVariant">#FF018786</color>
+    <color name="darkBlue">#0A208A</color>
+    <color name="background">#0559B2F4</color>
+
+    <color name="gold">#eeba0b</color>
+    <color name="silver">#cecece</color>
+    <color name="bronze">#bb6a32</color>
+    <color name="chart_item_background">#227B8F9E</color>
+</resources>
